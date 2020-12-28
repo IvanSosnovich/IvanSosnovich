@@ -15,7 +15,7 @@
 [![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)](https://www.mongodb.com/)
 
 <!--
-**IvanSosnovich/resume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IvanSosnovich/Resume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
