@@ -2,7 +2,7 @@
 - 🔭 I’m currently looking for job
 - 🌱 I’m currently learning React.js and going to lear Vue.js and TypeScript
 - ⚡ Also I can use HTML, CSS, JS, Git, Express.js, Node.js, MongoDB, SVG
-- 📫 How to reach me: alekseypopow1995@yandex.ru
+- 📫 How to reach me: ivan.sosnovich1987@gmail.com
 
 ### Technology stack
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
