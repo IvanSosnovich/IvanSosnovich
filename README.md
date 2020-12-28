@@ -4,9 +4,6 @@
 - ⚡ Also I can use HTML, CSS, JS, Git, Express.js, Node.js, MongoDB, SVG
 - 📫 How to reach me: ivan.sosnovich1987@gmail.com
 
-<!--
-**IvanSosnovich/IvanSosnovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 ### Technology stack
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
@@ -17,6 +14,10 @@
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
 [![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)](https://www.mongodb.com/)
+
+<!--
+**IvanSosnovich/IvanSosnovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
