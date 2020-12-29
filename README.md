@@ -4,7 +4,7 @@
 - ⚡ Владею следущими технологиями: HTML, CSS, JS, Git, Node.js, React JS.
 - 📫 Моя почта: ivan.sosnovich1987@gmail.com
 - 🤔 Мой телеграмм: @IvanSosnovich
-
+https://www.codewars.com/users/IvanSosnovich/badges/large
 
 ### Стэк технологий
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
