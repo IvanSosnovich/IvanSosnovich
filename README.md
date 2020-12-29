@@ -6,7 +6,7 @@
 - 🤔 Мой телеграмм: @IvanSosnovich
 
 
-[![CodeWars](https://www.codewars.com/users/IvanSosnovich/badges/large)
+![CodeWars](https://www.codewars.com/users/IvanSosnovich/badges/large)
 
 
 
