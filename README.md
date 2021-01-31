@@ -17,8 +17,10 @@
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![Webpack](https://shields.io/badge/-Webpack-2b3a42?logo=webpack&style=for-the-badge)](https://webpack.js.org/)
 ### Изучаю в данный момент
-![AngularCLI](https://img.shields.io/badge/JS-ANGULAR-blue)
-![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
+[![AngularCLI](https://img.shields.io/badge/JS-ANGULAR-blue)]
+[![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)]
+[![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)]
+
 <!--
 **IvanSosnovich/IvanSosnovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
